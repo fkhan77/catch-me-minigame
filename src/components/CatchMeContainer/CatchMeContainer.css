@@ -1,0 +1,6 @@
+.catchme-container {
+  width: 100%;
+  height: 400px;
+  text-align: start;
+  display: flex;
+}

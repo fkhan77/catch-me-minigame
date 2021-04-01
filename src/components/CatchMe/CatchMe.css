@@ -1,0 +1,8 @@
+.catchme {
+  transition: margin 1s;
+  padding: 1rem;
+  border-radius: 14px;
+  outline: none;
+  color: black;
+  border: 2px solid black;
+}

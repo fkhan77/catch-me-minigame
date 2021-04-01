@@ -1,0 +1,16 @@
+.show-sidebar--button {
+  text-align: start;
+  padding: 1rem;
+  border-radius: 14px;
+  outline: none;
+  color: black;
+  background: rgb(157, 97, 197);
+  border: 2px solid black;
+  z-index: 100;
+}
+.show-sidebar--container {
+  display: flex;
+  z-index: 2;
+  margin-left: 2rem;
+  margin-top: 1rem;
+}

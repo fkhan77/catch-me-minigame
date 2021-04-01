@@ -1,0 +1,16 @@
+.option-button {
+  padding: 1rem;
+  border-radius: 14px;
+  outline: none;
+  color: black;
+  border: 2px solid black;
+}
+.option-button-1 {
+  background-color: rgb(93, 91, 201);
+}
+.option-button-2 {
+  background-color: rgb(35, 119, 46);
+}
+.option-button-3 {
+  background-color: rgb(182, 43, 43);
+}
